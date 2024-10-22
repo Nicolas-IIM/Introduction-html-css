@@ -1,24 +1,31 @@
-
+/* debut du header*/
 li {
-    list-style-type: none;
     display: inline-flex;
     margin-right: 10px;
-    align-content: center;
 }
 
-header {
-    text-align: center;
+i {
+    margin-right: 10px;
+}
+
+.header-menu {
+    display: inline-flex;
+    align-items: center;
+}
+
+
+.header-icon {
+    margin-left: 93%;
+}
+
+.header {
+    max-width: 100%;
     padding: 10px;
     color: #89029e;
     font-family: Inter, sans-serif;
-    display: inline-flex;
-    align-items: center
 }
 
-.test {
-    align-content: end;
-}
-
+/* fin du header*/
 
 section {
     background-color: #f0f0f0;
@@ -44,7 +51,7 @@ section {
 
 .banner-head-btn {
     width: 150px;
-    height: 50px;
+    height: 30px;
     border: 1px solid;
     color: #89029e;
     border-radius: 5px;

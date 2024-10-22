@@ -1,18 +1,28 @@
+/* debut du header*/
 li {
-    list-style-type: none;
-    display: inline;
+    display: inline-flex;
     margin-right: 10px;
 }
 
-header {
-    text-align: center;
+i {
+    margin-right: 10px;
+}
+
+.header-menu {
+    display: inline-flex;
+    align-items: center;
+}
+
+
+.header-icon {
+    margin-left: 93%;
+}
+
+.header {
+    max-width: 100%;
     padding: 10px;
-    font-family: Inter, sans-serif;
-}
-
-h1 {
-
-    font-family: Inter, sans-serif;
     color: #89029e;
-    text-align: center;
+    font-family: Inter, sans-serif;
 }
+
+/* fin du header*/
