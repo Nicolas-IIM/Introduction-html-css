@@ -1,0 +1,18 @@
+li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 10px;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    font-family: Inter, sans-serif;
+}
+
+h1 {
+
+    font-family: Inter, sans-serif;
+    color: #89029e;
+    text-align: center;
+}
