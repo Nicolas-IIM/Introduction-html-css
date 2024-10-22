@@ -1,0 +1,14 @@
+li{
+    list-style-type: none;
+
+    display: inline;
+    margin-right: 10px;
+}
+header {
+    background-color: #dcdcdc;
+    color: #454545;
+    text-align: center;
+    padding: 10px;
+    font-family: Inter, sans-serif;
+    
+}
