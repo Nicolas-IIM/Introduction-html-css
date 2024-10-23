@@ -14,9 +14,7 @@ i {
 }
 
 
-.header-icon {
-    margin-left: 93%;
-}
+
 
 .header {
     max-width: 100%;
@@ -24,5 +22,13 @@ i {
     color: #89029e;
     font-family: Inter, sans-serif;
 }
+
+header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
 
 /* fin du header*/
