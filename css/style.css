@@ -83,13 +83,12 @@ button:active {
     display: flex;
     justify-content: flex-start;
     flex-wrap: wrap;
-    flex-grow: 2;
+    flex-grow: 1;
 }
 
 .card-1, .card-2, .card-3, .card-4, .card-5 {
     background-color: #fae2ff;
-    margin-top: 10px;
-    margin-left: 10px;
+    margin: 10px;
     padding-bottom: 10px;
     border-radius: 10px;
     flex-grow: 1.5;
@@ -102,11 +101,6 @@ img {
     border-radius: 10px 10px 0px 0px;
 }
 
-* {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-}
 
 
 
